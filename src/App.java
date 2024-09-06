@@ -94,7 +94,7 @@ public class App {
  
         //Question3
         String name1 = "Thanuja";
-        String name2 = "Pawani";
+        String name2 = "Tharushi";
         String name3 = "Thanuja";
  
         //Question3.a
@@ -120,7 +120,7 @@ public class App {
         }
         else{
             if(name1.equals(name3)){
-                System.out.println("Name1 & Name3 are equal");
+                System.out.println("Name1 & Name3 are same");
             }
             else{
             System.out.println("Name 1 and name3 are different");
