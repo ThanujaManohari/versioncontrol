@@ -38,7 +38,7 @@ public class App {
         //Question 2
         number1 = 20;
         number2 = 30;
-        int number3 = 30;
+        int number3 = 40;
 
         //Question2.a
         if(number1==number2 && number2==number3){
