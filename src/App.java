@@ -36,7 +36,7 @@ public class App {
         }
 
         //Question 2
-        number1 = 20;
+        number1 = 200;
         number2 = 30;
         int number3 = 40;
 
